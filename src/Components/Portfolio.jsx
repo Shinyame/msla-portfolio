@@ -31,28 +31,49 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "ICTを活用した学習戦略とモデルの構築",
+    description: "ICTとIoTを活用して学習戦略とモデルを構築する取り組みについての研究。特に、オープンデータに基づくシステム運用の視点からアプローチ。",
+    url: "https://www.union-services.com/sst/sst-12.html"
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "情報セキュリティとCTF活動",
+    description: "情報セキュリティ活動の一環として行われるCTF（Capture The Flag）についての取り組みと成果。特に、セキュリティキャンプでの活動について。",
+    url: "https://news.mynavi.jp/itsearch/article/security/3634"
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Raspberry Piを用いたメッシュネットワーク構築",
+    description: "Raspberry Piを使用してローカル環境でメッシュネットワークを構築する実験プロジェクト。性能評価とルーティングアルゴリズムの実践。",
+    url: "http://www.ieice-taikai.jp/2020general/jpn/p_pro/0212_Bpro.pdf"
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "るICT学習デザインの研究",
+    description: "GIGAスクール構想に基づくICT学習デザインの研究と実装。個別学習環境の比較とプログラミング教育の実践。",
+    url: "https://www.jstage.jst.go.jp/article/digrajprocsummer/2021/0/2021_47/_pdf/-char/ja"
+  },
+  {
+    title: "Microsoft Student Ambassadorsの活動",
+    description: "Microsoft Student Ambassadorsとして日本での技術コミュニティの企画と運営について。教育分野でのICT活用の実践例。",
+    url: "https://techcommunity.microsoft.com/t5/microsoft-mvp-communities-blog/what-students-learned-from-collaborating-with-mvp/ba-p/3913422"
+  },
+  {
+    title: "プログラミング教育におけるAIの活用",
+    description: "初学者向けにAIを活用したプログラミング教育の運営と支援方法についての研究。実際の取り組みとその効果について。",
+    url: "https://www.jset.gr.jp/taikai43/program.html"
+  },
+  {
+    title: "技術人材の育成における情報セキュリティ学習環境の構築",
+    description: "情報セキュリティ学習環境の構築とその運用についての提案。ログの活用方法も含む。",
+    url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=230556&file_id=1&file_no=1"
+  },
+  {
+    title: "地域コミュニティとICT人材育成の実践",
+    description: "地域コミュニティとの連携に向けたICT人材育成のための学習体制の構築と実践についての研究。",
+    url: "https://doi.org/10.15077/jsetstudy.2022.4_61"
+  },
+  {
+    title: "VTuberを活用したオンライン学習支援",
+    description: "VTuberを活用して情報セキュリティ学習をオンラインで支援するための環境構築と実践について。",
+    url: "http://digrajapan.org/conf12th"
   },
 ];
 
